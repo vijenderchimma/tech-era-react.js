@@ -1,0 +1,29 @@
+.courses-list-container {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: flex-start;
+  font-family: 'Roboto';
+}
+
+.failure-image {
+  width: 200px;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+.button {
+  background-color: #4656a1;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
